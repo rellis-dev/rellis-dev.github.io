@@ -1,0 +1,8 @@
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  logo: assets/logo.png
+site_name: RELLIS.dev
+extra:
+  homepage: https://rellis.dev/
